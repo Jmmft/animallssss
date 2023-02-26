@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Shantell Sans', cursive;
+    background: burlywood;
+}
+
+.header_div
+{
+    background: maroon;
+    color: magenta;
+}
+
+.header_div p{
+    font-family: 'Shantell Sans' , sans-serif;
+    color: black;
+    letter-spacing: 3px;
+    font-size:  18px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    font-size: 27px;
+    background-color: white;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: 7px 7px 7px rgb(151, 149, 149)
+}
